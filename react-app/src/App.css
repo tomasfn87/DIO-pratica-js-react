@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h2 {
+  font-size: 1.05em;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #999;
+}
